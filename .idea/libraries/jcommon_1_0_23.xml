@@ -1,8 +1,9 @@
 <component name="libraryTable">
   <library name="jcommon-1.0.23">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/jfreechart/jcommon-1.0.23.jar!/" />
-      <root url="jar://$PROJECT_DIR$/jfreechart/jfreechart-1.0.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/jcommon-1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/jfreechart-1.0.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/sqlite-jdbc-3.23.1 (1).jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
