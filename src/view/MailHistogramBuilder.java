@@ -1,7 +1,6 @@
 package view;
 
-import model.Histogram;
-import model.Mail;
+import model.*;
 
 import java.util.List;
 
